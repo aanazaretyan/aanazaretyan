@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, I'm <a href="https://t.me/aanazaretyan" target="_blank">Albert</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Information Security student </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=DevSecOps+Engineer" alt="Typing SVG" /></a>
+<img src="images/Hi.gif" height="32" alt=""/></h1>
+<h3 align="center">Information Security student</h3>
+<h5 align="center" style="color:#36BCF7">DevSecOps Engineer</h5>
 
 Languages
 ---
@@ -31,4 +31,4 @@ Education
 ---
 [![codewars](https://www.codewars.com/users/aanazaretyan/badges/large)](https://www.codewars.com/users/aanazaretyan)
 
-<h3>See my projects in pinned</h3>
+<h3>See my projects in pinned!<img src="images/Point-down.gif" height="32" alt=""/></h3>
