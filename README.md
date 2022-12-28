@@ -30,3 +30,5 @@ Other Tools
 Education
 ---
 [![codewars](https://www.codewars.com/users/aanazaretyan/badges/large)](https://www.codewars.com/users/aanazaretyan)
+
+<h3>See my projects in pinned</h3>
