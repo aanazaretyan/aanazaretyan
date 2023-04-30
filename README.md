@@ -1,7 +1,12 @@
-<h1 align="center">Hi everyone, I'm <a href="https://t.me/aanazaretyan" target="_blank">Albert</a> 
-<img src="images/Hi.gif" height="32" alt=""/></h1>
-<h3 align="center" style="color:#36BCF7">DevSecOps Engineer</h3>
+<h1 align="center">Hi everyone, I'm Albert <img src="images/Hi.gif" height="32" alt=""/></h1>
+<h3 align="center" style="color:#36BCF7">DevOps Engineer</h3>
 <h5 align="center">Information Security student</h5>
+
+Contacts
+---
+eMail: aanazaretyan.sr@gmail.com
+
+Telegram: t.me/aanazaretyan
 
 Languages
 ---
@@ -12,12 +17,10 @@ Languages
 DevOps
 ---
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23F05033.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-Databases
----
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Blockchain Solutions
 ---
