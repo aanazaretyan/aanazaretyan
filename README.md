@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, I'm <a href="https://t.me/aanazaretyan" target="_blank">Albert</a> 
 <img src="images/Hi.gif" height="32" alt=""/></h1>
-<h3 align="center">Information Security student</h3>
-<h5 align="center" style="color:#36BCF7">DevSecOps Engineer</h5>
+<h3 align="center" style="color:#36BCF7">DevSecOps Engineer</h3>
+<h5 align="center">Information Security student</h5>
 
 Languages
 ---
