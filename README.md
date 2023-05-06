@@ -6,7 +6,7 @@ Contacts
 ---
 eMail: aanazaretyan.sr@gmail.com
 
-Telegram: [@aanazaretyan](t.me/aanazaretyan)
+Telegram: [@aanazaretyan](https://t.me/aanazaretyan)
 
 Languages
 ---
