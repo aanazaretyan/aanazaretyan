@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Albert <img src="images/Hi.gif" height="32" alt=""/></h1>
+<h1 align="center">Hi everyone, I'm Albert</h1>
 <h3 align="center" style="color:#36BCF7">DevOps Engineer</h3>
 <h5 align="center">Information Security student</h5>
 
@@ -34,4 +34,10 @@ Education
 ---
 [![codewars](https://www.codewars.com/users/aanazaretyan/badges/large)](https://www.codewars.com/users/aanazaretyan)
 
-<h3>See my projects in pinned!<img src="images/Point-down.gif" height="32" alt=""/></h3>
+<h3>See my projects!⬇</h3>
+
+* [Ansible roles](https://gitlab.com/aanaz/devops-includes/ansible-roles)
+* [Docker images](https://gitlab.com/aanaz/devops-includes/docker-images)
+* [GitLab CI Extends](https://gitlab.com/aanaz/devops-includes/gitlab-ci-extends)
+* [Different Tasks](https://gitlab.com/aanaz/deusops)
+* [Programming](https://gitlab.com/aanaz/pet-projects)
