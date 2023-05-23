@@ -39,5 +39,5 @@ Education
 * [Ansible roles](https://gitlab.com/aanaz/devops-includes/ansible-roles)
 * [Docker images](https://gitlab.com/aanaz/devops-includes/docker-images)
 * [GitLab CI Extends](https://gitlab.com/aanaz/devops-includes/gitlab-ci-extends)
-* [Different Tasks](https://gitlab.com/aanaz/deusops)
+* [Different DevOps Tasks](https://gitlab.com/aanaz/deusops)
 * [Programming](https://gitlab.com/aanaz/pet-projects)
