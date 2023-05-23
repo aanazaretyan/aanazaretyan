@@ -34,7 +34,7 @@ Education
 ---
 [![codewars](https://www.codewars.com/users/aanazaretyan/badges/large)](https://www.codewars.com/users/aanazaretyan)
 
-<h3>See my projects!⬇</h3>
+<h3>See my projects!  ⬇</h3>
 
 * [Ansible roles](https://gitlab.com/aanaz/devops-includes/ansible-roles)
 * [Docker images](https://gitlab.com/aanaz/devops-includes/docker-images)
