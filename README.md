@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Albert</h1>
 <h3 align="center" style="color:#36BCF7">DevOps Engineer</h3>
-<h5 align="center">Information Security student</h5>
+<h5 align="center">HSE Information Security student</h5>
 
 Contacts
 ---
